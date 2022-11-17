@@ -1,0 +1,12 @@
+
+*.sketch
+
+*.xd
+*.fig
+
+.DS_Store
+
+/design
+*.txt
+
+
